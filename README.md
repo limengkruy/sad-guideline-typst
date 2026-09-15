@@ -1,4 +1,4 @@
-# Customs Clearance – Single Administrative Document (SAD)
+# Single Administrative Document (SAD) - Guideline
 
 A Typst-based project for generating and managing **Customs Clearance Single Administrative Documents (SAD)**. This repository provides a modular, maintainable structure for producing professional customs documentation using [Typst](https://typst.app/).
 
