@@ -30,6 +30,6 @@
 #let content = [
   // === #{title}
   #overview
-  #align(center)[#sad-assessment-notice-ui()]
+  #align(center)[#sad-information-page-ui()]
   #generate-sad-explanation(filling-condition, filling-method, reference-code, example, common-error, note, reference-document)
 ]

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <style>
+      .doc-body { fill: #e8e8e8; }
+      .doc-fold { fill: #cccccc; }
+      .doc-line {
+        stroke: #4c4c4c;
+        stroke-width: 22;
+        stroke-linecap: round;
+      }
+      .lens-glass { fill: #ffffff; }
+      .lens-rim {
+        fill: none;
+        stroke: #7ec8fc;
+        stroke-width: 30;
+      }
+      .handle-neck { fill: #f0d09d; }
+      .handle-grip { fill: #cca373; }
+    </style>
+  </defs>
+
+  <!-- Document Base -->
+  <path class="doc-body" d="
+    M 58 10
+    L 325 10
+    L 325 68
+    A 15 15 0 0 0 340 83
+    L 398 83
+    L 398 444
+    A 16 16 0 0 1 382 460
+    L 58 460
+    A 16 16 0 0 1 42 444
+    L 42 26
+    A 16 16 0 0 1 58 10 
+    Z" />
+
+  <!-- Top-Right Folded Corner -->
+  <path class="doc-fold" d="
+    M 325 10
+    L 382 10
+    A 16 16 0 0 1 398 26
+    L 398 83
+    L 340 83
+    A 15 15 0 0 1 325 68
+    Z" />
+
+  <!-- Document Content Lines -->
+  <g>
+    <!-- Line 1 (Header) -->
+    <line class="doc-line" x1="116" y1="108" x2="219" y2="108" />
+    <!-- Line 2 -->
+    <line class="doc-line" x1="116" y1="164" x2="325" y2="164" />
+    <!-- Line 3 -->
+    <line class="doc-line" x1="116" y1="220" x2="200" y2="220" />
+    <!-- Line 4 -->
+    <line class="doc-line" x1="116" y1="276" x2="175" y2="276" />
+    <!-- Line 5 -->
+    <line class="doc-line" x1="116" y1="332" x2="175" y2="332" />
+    <!-- Line 6 -->
+    <line class="doc-line" x1="116" y1="388" x2="219" y2="388" />
+  </g>
+
+  <!-- Magnifying Glass Handle -->
+  <g transform="translate(268, 300) rotate(45)">
+    <!-- Connector Neck -->
+    <rect class="handle-neck" x="80" y="-16" width="62" height="32" rx="6" ry="6" />
+    <!-- Wood Grip -->
+    <rect class="handle-grip" x="130" y="-28" width="146" height="56" rx="28" ry="28" />
+  </g>
+
+  <!-- Magnifying Glass Lens -->
+  <circle class="lens-glass" cx="268" cy="300" r="92" />
+  <circle class="lens-rim" cx="268" cy="300" r="92" />
+</svg>

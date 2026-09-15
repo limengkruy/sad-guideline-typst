@@ -16,13 +16,13 @@
 #let cell-width-5-quarter-x = cell-width-1x * 1.25
 #let cell-width-6-quarter-x = cell-width-1x * 1.5
 #let cell-width-7-quarter-x = cell-width-1x * 1.75
-#let cell-width-1-half-x = cell-width-1x * 1.5
+#let cell-width-1-and-half-x = cell-width-1x * 1.5
 #let cell-width-2x = cell-width-1x * 2
-#let cell-width-2-half-x = cell-width-1x * 2.5
+#let cell-width-2-and-half-x = cell-width-1x * 2.5
 #let cell-width-3x = cell-width-1x * 3
-#let cell-width-3-half-x = cell-width-1x * 3.5
+#let cell-width-3-and-half-x = cell-width-1x * 3.5
 #let cell-width-4x = cell-width-1x * 4
-#let cell-width-4-half-x = cell-width-1x * 4.5
+#let cell-width-4-and-half-x = cell-width-1x * 4.5
 #let cell-width-5x = cell-width-1x * 5
 #let cell-width-6x = cell-width-1x * 6
 #let cell-width-7x = cell-width-1x * 7
@@ -32,9 +32,13 @@
 
 #let cell-height-1x = 6mm
 #let cell-height-half-x = cell-height-1x * 0.5
-#let cell-height-1-half-x = cell-height-1x * 1.5
+#let cell-height-1-quarter-x = cell-height-1x * 0.25
+#let cell-height-3-quarter-x = cell-height-1x * 0.75
+#let cell-height-5-quarter-x = cell-height-1x * 1.25
+#let cell-height-7-quarter-x = cell-height-1x * 1.75
+#let cell-height-1-and-half-x = cell-height-1x * 1.5
 #let cell-height-2x = cell-height-1x * 2
-#let cell-height-2-half-x = cell-height-1x * 2.5
+#let cell-height-2-and-half-x = cell-height-1x * 2.5
 #let cell-height-3x = cell-height-1x * 3
 #let cell-height-4x = cell-height-1x * 4
 #let cell-height-5x = cell-height-1x * 5
@@ -43,6 +47,12 @@
 #let cell-height-8x = cell-height-1x * 8
 #let cell-height-9x = cell-height-1x * 9
 #let cell-height-10x = cell-height-1x * 10
+#let cell-height-11x = cell-height-1x * 11
+#let cell-height-12x = cell-height-1x * 12
+#let cell-height-13x = cell-height-1x * 13
+#let cell-height-14x = cell-height-1x * 14
+#let cell-height-15x = cell-height-1x * 15
+#let cell-height-20x = cell-height-1x * 20
 
 #let table-border-size = 0.5pt
 

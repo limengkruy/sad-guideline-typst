@@ -9,6 +9,7 @@
 #import "tab-containers/_main_.typ": content as tab-containers
 #import "tab-selectivity-control/_main_.typ": content as tab-selectivity-control
 #import "tab-cvds/_main_.typ": content as tab-cvds
+#import "tab-vehicles/_main_.typ": content as tab-vehicles
 #import "tab-write-off/_main_.typ": content as tab-write-off
 #import "tab-upload-file/_main_.typ": content as tab-upload-file
 
@@ -30,6 +31,7 @@
   #tab-asw-scanned-document
   #tab-containers
   #tab-selectivity-control
+  #tab-vehicles
   #tab-cvds
   #tab-write-off
   #tab-upload-file

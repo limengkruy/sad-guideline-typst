@@ -2,7 +2,7 @@
 
 #import "part/segment-01.typ": content as segment-01
 
-#let title = "ផ្នែកព័ត៌មានកុងតឺន័រ"
+#let title = "ផ្នែកព័ត៌មានទំនិញជាយានយន្ត"
 #let body = []
 #let content = [
   == #{title}

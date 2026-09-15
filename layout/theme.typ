@@ -89,6 +89,7 @@
 #let sad-table-font-size = 11pt
 #let sad-table-font-size-small = 10pt
 #let sad-table-font-size-extra-small = 9pt
+#let sad-table-font-size-x-extra-small = 7pt
 #let sad-table-font-weight = "regular"
 #let sad-table-font-style = "normal"
 #let sad-table-font-color = accent-color
