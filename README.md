@@ -146,11 +146,6 @@ Example: Changing the primary font in `layout/theme.typ`:
 - **Missing fonts:**  
   Install required fonts on your system or specify fallback fonts in your Typst files.
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
