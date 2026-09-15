@@ -60,7 +60,7 @@
   table(
     stroke: none,
     columns: (cell-width-8x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -181,7 +181,7 @@
   table(
     stroke: none,
     columns: (cell-width-1x, cell-width-1x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -260,7 +260,7 @@
   table(
     stroke: none,
     columns: (cell-width-5x, cell-width-5x),
-    rows: (cell-height-1-half-x, cell-height-5x, cell-height-1-half-x),
+    rows: (cell-height-1-and-half-x, cell-height-5x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -343,7 +343,7 @@
   table(
     stroke: none,
     columns: (cell-width-1x, cell-width-1x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -400,7 +400,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -445,7 +445,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -490,7 +490,7 @@
   table(
     stroke: none,
     columns: (cell-width-3x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -538,7 +538,7 @@
   table(
     stroke: none,
     columns: (cell-width-3x, cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -600,7 +600,7 @@
   table(
     stroke: none,
     columns: (cell-width-5x, cell-width-5x),
-    rows: (cell-height-1-half-x, cell-height-2x, cell-height-1-half-x),
+    rows: (cell-height-1-and-half-x, cell-height-2x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -693,7 +693,7 @@
   table(
     stroke: none,
     columns: (cell-width-3x, cell-width-3x, cell-width-3x, cell-width-3x),
-    rows: (cell-height-1-half-x, cell-height-2x, cell-height-2x),
+    rows: (cell-height-1-and-half-x, cell-height-2x, cell-height-2x),
     
     // first row
     cell(
@@ -782,7 +782,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -841,7 +841,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -897,7 +897,7 @@
   table(
     stroke: none,
     columns: (cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -944,7 +944,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-3x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1006,7 +1006,7 @@
   table(
     stroke: none,
     columns: (cell-width-5x, cell-width-5x),
-    rows: (cell-height-1-half-x, cell-height-2x, cell-height-1-half-x),
+    rows: (cell-height-1-and-half-x, cell-height-2x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1092,7 +1092,7 @@
   table(
     stroke: none,
     columns: (cell-width-5x, cell-width-2x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1182,7 +1182,7 @@
   table(
     stroke: none,
     columns: (cell-width-5x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1232,7 +1232,7 @@
   table(
     stroke: none,
     columns: (cell-width-5x, cell-width-2x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x, cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x, cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(rowspan: 2)[],
@@ -1335,7 +1335,7 @@
   table(
     stroke: none,
     columns: (cell-width-10x, cell-width-1x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -1390,7 +1390,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -1440,7 +1440,7 @@
   table(
     stroke: none,
     columns: (cell-width-1x, cell-width-10x, cell-width-1x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -1515,7 +1515,7 @@
   table(
     stroke: none,
     columns: (cell-width-10x, cell-width-1x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -1578,7 +1578,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-5x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1635,7 +1635,7 @@
   table(
     stroke: none,
     columns: (cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1683,7 +1683,7 @@
   table(
     stroke: none,
     columns: (cell-width-1x, cell-width-1x, cell-width-3x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1749,7 +1749,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -1805,7 +1805,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1863,7 +1863,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -1935,7 +1935,7 @@
   table(
     stroke: none,
     columns: (cell-width-3x, cell-width-2x, cell-width-3x, cell-width-5x),
-    rows: (cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x),
+    rows: (cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2058,7 +2058,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2115,7 +2115,7 @@
   table(
     stroke: none,
     columns: (cell-width-6x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2178,7 +2178,7 @@
   table(
     stroke: none,
     columns: (auto, cell-width-2x, cell-width-3x, cell-width-7x),
-    rows: (cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x),
+    rows: (cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -2341,8 +2341,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-1-half-x, cell-width-1x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    columns: (cell-width-1-and-half-x, cell-width-1x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -2409,8 +2409,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-4x, cell-width-1x, cell-width-1-half-x, cell-width-1-half-x, cell-width-1-half-x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    columns: (cell-width-4x, cell-width-1x, cell-width-1-and-half-x, cell-width-1-and-half-x, cell-width-1-and-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2538,8 +2538,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-2x, cell-width-1-half-x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    columns: (cell-width-2x, cell-width-1-and-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2599,7 +2599,7 @@
   table(
     stroke: none,
     columns: (cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -2645,7 +2645,7 @@
   table(
     stroke: none,
     columns: (cell-width-3x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2692,8 +2692,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-2x, cell-width-1-half-x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    columns: (cell-width-2x, cell-width-1-and-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2749,7 +2749,7 @@
   table(
     stroke: none,
     columns: (cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -2795,7 +2795,7 @@
   table(
     stroke: none,
     columns: (cell-width-3x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2845,8 +2845,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-9x, cell-width-1-half-x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    columns: (cell-width-9x, cell-width-1-and-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -2908,8 +2908,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-1-half-x, cell-width-3x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    columns: (cell-width-1-and-half-x, cell-width-3x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -2966,7 +2966,7 @@
   table(
     stroke: none,
     columns: (cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -3011,7 +3011,7 @@
   table(
     stroke: none,
     columns: (cell-width-1x, cell-width-1x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -3089,8 +3089,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (auto, cell-width-2x, cell-width-1-half-x, cell-width-8x),
-    rows: cell-height-1-half-x,
+    columns: (auto, cell-width-2x, cell-width-1-and-half-x, cell-width-8x),
+    rows: cell-height-1-and-half-x,
     fill: sad-table-cell-background-color,
     
     // first row
@@ -3214,7 +3214,7 @@
   table(
     stroke: none,
     columns: (cell-width-6x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -3259,7 +3259,7 @@
   table(
     stroke: none,
     columns: (cell-width-7x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -3349,8 +3349,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (auto, cell-width-1-half-x, cell-width-1-half-x, cell-width-3x, cell-width-3x, cell-width-3x, cell-width-1x),
-    rows: cell-height-1-half-x,
+    columns: (auto, cell-width-1-and-half-x, cell-width-1-and-half-x, cell-width-3x, cell-width-3x, cell-width-3x, cell-width-1x),
+    rows: cell-height-1-and-half-x,
     fill: sad-table-cell-background-color,
     
     // first row
@@ -3894,7 +3894,7 @@
   table(
     stroke: none,
     columns: (cell-width-6x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -3942,7 +3942,7 @@
   table(
     stroke: none,
     columns: (cell-width-4x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -4014,8 +4014,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-4-half-x, cell-width-1x, cell-width-2x, cell-width-1x, cell-width-1x, cell-width-2x),
-    rows: cell-height-1-half-x,
+    columns: (cell-width-4-and-half-x, cell-width-1x, cell-width-2x, cell-width-1x, cell-width-1x, cell-width-2x),
+    rows: cell-height-1-and-half-x,
     
     // first row
     cell(
@@ -4310,7 +4310,7 @@
   table(
     stroke: none,
     columns: (cell-width-3x, cell-width-1x, cell-width-1x, cell-width-2x, cell-width-2x, cell-width-2x, cell-width-3x),
-    rows: cell-height-1-half-x,
+    rows: cell-height-1-and-half-x,
     fill: sad-table-cell-background-color,
     
     // first row
@@ -4587,8 +4587,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (auto, cell-width-2-half-x, cell-width-8x, cell-width-1-half-x),
-    rows: cell-height-1-half-x,
+    columns: (auto, cell-width-2-and-half-x, cell-width-8x, cell-width-1-and-half-x),
+    rows: cell-height-1-and-half-x,
     fill: sad-table-cell-background-color,
     
     // first row
@@ -4676,7 +4676,7 @@
   table(
     stroke: none,
     columns: (cell-width-2x, cell-width-4x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     fill: sad-table-cell-background-color,
     
     // first row
@@ -4746,8 +4746,8 @@
   v(small-v-gap-table)
   table(
     stroke: none,
-    columns: (cell-width-1-half-x, cell-width-2x, cell-width-1-half-x, cell-width-3x, cell-width-3x, cell-width-1x, cell-width-2x),
-    rows: (cell-height-1x, cell-height-1-half-x),
+    columns: (cell-width-1-and-half-x, cell-width-2x, cell-width-1-and-half-x, cell-width-3x, cell-width-3x, cell-width-1x, cell-width-2x),
+    rows: (cell-height-1x, cell-height-1-and-half-x),
     
     // first row
     cell(
@@ -4920,7 +4920,7 @@
   table(
     stroke: none,
     columns: (cell-width-5x, cell-width-4x),
-    rows: (cell-height-1x, cell-height-1-half-x, cell-height-1-half-x, cell-height-1-half-x),
+    rows: (cell-height-1x, cell-height-1-and-half-x, cell-height-1-and-half-x, cell-height-1-and-half-x),
     
     // first row
     cell(

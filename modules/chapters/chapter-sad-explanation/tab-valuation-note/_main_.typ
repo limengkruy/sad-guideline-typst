@@ -5,11 +5,10 @@
 #import "part/item.typ": content as item
 
 #let title = "ផ្នែកតម្លៃ"
-#let body = []
+#let body = "ផ្នែកតម្លៃ"
 #let content = [
   == #{title}
   #body
-  #pagebreak()
 
   #general-segment
   #item

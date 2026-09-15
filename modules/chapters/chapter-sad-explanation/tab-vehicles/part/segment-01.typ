@@ -1,6 +1,6 @@
 #import "../../../../../lib/ui.typ": *
 
-#let title = [ផ្នែកព័ត៌មានទូទៅ]
+#let title = [ផ្នែកព័ត៌មានទំនិញជាយានយន្ត]
 #let overview = [
   #text(tracking:0.02em)[
     សេចក្ដីពន្យល់
@@ -30,6 +30,6 @@
 #let content = [
   // === #{title}
   #overview
-  #align(center)[#sad-assessment-notice-ui()]
+  #align(center)[#sad-vehicles-ui()]
   #generate-sad-explanation(filling-condition, filling-method, reference-code, example, common-error, note, reference-document)
 ]

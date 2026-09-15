@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="100%" height="100%">
+  <defs>
+    <style>
+      .stroke-dark {
+        stroke: #1b5358;
+        stroke-width: 22;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+      .cart-body {
+        fill: #48b8b3;
+      }
+      .wheel-tire {
+        fill: #1b5358;
+      }
+      .wheel-hub {
+        fill: #d7aa5c;
+      }
+    </style>
+  </defs>
+
+  <g id="cart-group">
+    <!-- Main Cart Body with Speed Lines -->
+    <path class="stroke-dark cart-body" d="
+      M 370 205
+      L 675 205
+      C 690 205 700 216 698 230
+      C 696 242 685 251 672 251
+      L 646 251
+      L 564 515
+      C 560 528 548 537 534 537
+      L 272 537
+      C 255 537 242 522 245 505
+      L 262 443
+      L 175 443
+      C 160 443 148 431 148 416
+      C 148 401 160 389 175 389
+      L 277 389
+      L 293 331
+      L 118 331
+      C 103 331 91 319 91 304
+      C 91 289 103 277 118 277
+      L 308 277
+      L 324 220
+      L 168 220
+      C 153 220 141 208 141 193
+      C 141 178 153 166 168 166
+      L 348 166
+      C 358 166 367 172 371 182
+      Z" />
+
+    <!-- Center Package Window Cutout -->
+    <path class="stroke-dark cart-body" d="
+      M 436 278
+      L 556 278
+      C 568 278 577 288 574 300
+      L 535 425
+      C 532 434 524 440 514 440
+      L 394 440
+      C 382 440 373 430 376 418
+      L 415 293
+      C 418 284 426 278 436 278
+      Z" />
+
+    <!-- Package Tape Decal -->
+    <path class="stroke-dark" fill="none" d="
+      M 454 280
+      L 426 368
+      L 476 345
+      L 498 368
+      L 522 280" />
+
+    <!-- Left Wheel -->
+    <g transform="translate(320, 537)">
+      <circle cx="0" cy="0" r="59" class="wheel-tire"/>
+      <circle cx="0" cy="0" r="42" class="wheel-hub"/>
+    </g>
+
+    <!-- Right Wheel -->
+    <g transform="translate(488, 537)">
+      <circle cx="0" cy="0" r="59" class="wheel-tire"/>
+      <circle cx="0" cy="0" r="42" class="wheel-hub"/>
+    </g>
+  </g>
+</svg>

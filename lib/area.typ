@@ -14,16 +14,16 @@
   )[#text(fill: body-font-color)[#value]]
 )
 
-#let filling-area-height(value, width, height) = (
+#let filling-area-box(value, width, y-inset: 5pt, x-inset: 5pt) = (
   box(
     width: width,
-    height: height,
     stroke: (
       top: none,
       bottom: table-border-size + sad-table-border-color-secondary,
       left: none,
       right: none,
     ),
+    inset: (y: y-inset, x: x-inset),
   )[#text(fill: body-font-color)[#value]]
 )
 
